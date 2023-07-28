@@ -11,7 +11,7 @@ Im upload the game on mega - You can **download** it from here [Press here to Do
 1. Download zip file from mega.
 2. Extract Zip file.
 3. make sure steam is open.
-4. go to folder the game and open cs2.exe from ``cs2\game\bin\win64``
+4. go to folder the game and open cs2.exe from ``cs2\game\bin\win64``, or run shortcut ``start game.bat``
 
 ## ![](https://img.icons8.com/?size=60&id=AgiWBf89rthv&format=svg) Custom Server To Play :
 
