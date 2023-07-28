@@ -19,4 +19,6 @@ Im upload the game on mega - You can **download** it from here [Press here to Do
 2. [Dathost](https://dathost.net/cs2-public-servers)
 3. [Dixrix](https://dixrix.net/cs2)
 
-    and more you can search it on google.
+     and more you can search it on google.
+   
+    when you get ip server you want play with it , open console in game and type ``connect`` then put ip , press enter
