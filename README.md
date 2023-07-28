@@ -2,7 +2,7 @@
 
 
 # ![](https://img.icons8.com/?size=60&id=yWtH78otokhy&format=svg) About Patch :
-**CS2 Patch to play with your friends in Custom Server And Play Offline (Only) You cant play in official server - Last Version (2023/7/22)**
+**CS2 Patch to play with your  **(friends)**, **(Custom Server)** , **(Offline)** , You cant play in official server - Last Version (2023/7/22)**
 ## ![](https://img.icons8.com/?size=60&id=m2rAYiXkqccX&format=svg) Download :
 Im upload the game on mega - You can **download** it from here [Press here to Download](https://mega.nz/file/wsFgUTQb#dxGMgMmNOuLxEm02k731WNTvQX6DVG-NfrAu535_QVQ)
 
