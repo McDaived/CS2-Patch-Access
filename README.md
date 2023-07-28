@@ -22,3 +22,5 @@ Im upload the game on mega - You can **download** it from here [Press here to Do
      and more you can search it on google.
    
     when you get ip server you want play with it , open console in game and type ``connect`` then put ip , press enter
+##
+I don't know valve policy about playing on cracked clients, the client is connecting with steam , for seafty just use a new steam account .
