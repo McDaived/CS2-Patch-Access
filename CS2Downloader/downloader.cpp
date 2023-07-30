@@ -92,6 +92,22 @@ bool Downloader::needsUpdate() {
 	return false;
 }
 
+void Downloader::UpdateInstaller() {
+	std::string currentAppPath;
+	std::string updatedAppPath;
+
+
+	char buffer[MAX_PATH];
+	GetModuleFileNameA(NULL, buffer, MAX_PATH);
+	currentAppPath = buffer;
+	updatedAppPath = currentAppPath + ".temp";
+
+
+	if (!DownloadFile("https://github.com/McDaived/CS2-Patch-Access/raw/main/App/CS2Downloader.exe", updatedAppPath.c_str())) {
+		puts("failed to download update.");
+		waitforinput();
+		exit(1);
+	}
 	std::string currentAppName = currentAppPath.substr(currentAppPath.find_last_of("\\/") + 1);
 	std::string updatedAppName = updatedAppPath.substr(updatedAppPath.find_last_of("\\/") + 1);
 
