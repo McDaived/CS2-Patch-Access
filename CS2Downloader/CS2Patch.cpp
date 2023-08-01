@@ -70,7 +70,7 @@ bool Patcher::ReplaceBytes(const char* filename, const char* searchPattern, cons
 
     while (position <= endPosition) {
         if (memcmp(position, searchPattern, replaceLength) == 0) {
-            fseek(file, position - buffer, SEEK_SET);
+            fseek(file, static_cast<long>(position - buffer), SEEK_SET);
             fwrite(replaceBytes, 1, replaceLength, file);
             break;
         }
