@@ -27,7 +27,7 @@ v1.0 - | 22/07/2023
    * or on Gofile (Old Version) - You can **download** it from here [Press here to Download](https://gofile.io/d/T9dBBb)
 
 ## ![](https://img.icons8.com/?size=60&id=qQWURf13xigk&format=svg) How to use it :
-1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2Downloader.V1.1.zip).
+1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2.Downloader.v1.1.rar).
 2. Extract zip file.
 3. Open CS2Downloader.exe and wait to download the game folder.
 4. When the game it finish, you should wait to patch game.
