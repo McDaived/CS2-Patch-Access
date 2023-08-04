@@ -7,6 +7,12 @@
 ### ![](https://img.icons8.com/?size=60&id=_VsvtdQCsxq4&format=svg) Changelog :
 
 ```diff
+v1.2 - | 3/08/2023
++ Add Ancient map
++ Add Anubis map
++ Fixed a case where incendiary grenades fail to detonate in water
++ Fixed an issue with round restart in the middle of weapon reloading
+
 v1.1 - | 30/07/2023
 + CS:2 - Version 30/07/2023
 + Overpass
@@ -27,7 +33,7 @@ v1.0 - | 22/07/2023
    * or on Gofile (Old Version) - You can **download** it from here [Press here to Download](https://gofile.io/d/T9dBBb)
 
 ## ![](https://img.icons8.com/?size=60&id=qQWURf13xigk&format=svg) How to use it :
-1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2.Downloader.v1.1.rar).
+1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2.Downloader.v1.2.zip).
 2. Extract zip file.
 3. Open CS2Downloader.exe and wait to download the game folder.
 4. When the game it finish, you should wait to patch game.
