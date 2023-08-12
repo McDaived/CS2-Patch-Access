@@ -30,14 +30,14 @@ v1.0 - | 22/07/2023
 - Various fixes to Vertigo and Overpass
 ```
 ## ![](https://img.icons8.com/?size=60&id=m2rAYiXkqccX&format=svg) Download :
-1) You can download **CS2Downloader** to install the game on (**latest version**), [Press here to Download CS2Downloader](https://github.com/McDaived/CS2-Patch-Access/releases/tag/CS2)
+1) You can download **CS2Downloader** to install the game on (**latest version**), [Press here to Download CS2Downloader](https://github.com/McDaived/CS2-Patch-Access/releases/tag/v1.3)
 
    **or**
    
 3) Im upload the game on DropBox (Old Version) - You can **download** it from here [Press here to Download](https://www.dropbox.com/s/kixx2piu9ilbepa/cs2.zip?dl=0)
 
 ## ![](https://img.icons8.com/?size=60&id=qQWURf13xigk&format=svg) How to use it :
-1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2.Downloader.v1.2.zip).
+1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/v1.3/CS2.Downloader.v1.3.zip).
 2. Extract zip file.
 3. Open CS2Downloader.exe and wait to download the game folder.
 4. When the game it finish, you should wait to patch game.
