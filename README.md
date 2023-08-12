@@ -7,6 +7,11 @@
 ### ![](https://img.icons8.com/?size=60&id=_VsvtdQCsxq4&format=svg) Changelog :
 
 ```diff
+v1.3 - | 12/08/2023
++ Fixed CS2 Downloader
++ Fixed Bug
++ Fast api download from steam
+
 v1.2 - | 3/08/2023
 + Add Ancient map
 + Add Anubis map
@@ -30,7 +35,6 @@ v1.0 - | 22/07/2023
    **or**
    
 3) Im upload the game on DropBox (Old Version) - You can **download** it from here [Press here to Download](https://www.dropbox.com/s/kixx2piu9ilbepa/cs2.zip?dl=0)
-   * or on Gofile (Old Version) - You can **download** it from here [Press here to Download](https://gofile.io/d/T9dBBb)
 
 ## ![](https://img.icons8.com/?size=60&id=qQWURf13xigk&format=svg) How to use it :
 1. Download CS2Downloader zip file from here [Download](https://github.com/McDaived/CS2-Patch-Access/releases/download/CS2/CS2.Downloader.v1.2.zip).
