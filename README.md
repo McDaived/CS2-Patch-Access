@@ -1,10 +1,10 @@
 # Counter Strike : 2 Beta Limit Test
 
 
-# ![](https://img.icons8.com/?size=60&id=yWtH78otokhy&format=svg) About Patch :
+# ![](https://img.icons8.com/?size=60&id=PS7g5IDZc4LQ&format=png) About Patch :
 **App to download CS:2 on latest version and patch it to play with your  **(friends)**, **(Custom Server)** , **(Offline)** , You cant play in official server.**
 
-### ![](https://img.icons8.com/?size=60&id=_VsvtdQCsxq4&format=svg) Changelog :
+### ![](https://img.icons8.com/?size=60&id=_VsvtdQCsxq4&format=png) Changelog :
 
 ```diff
 v1.3 - | 12/08/2023
