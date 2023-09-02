@@ -7,6 +7,11 @@
 ### ![](https://img.icons8.com/?size=60&id=_VsvtdQCsxq4&format=png) Changelog :
 
 ```diff
+v1.3.1 - | 31/08/2023
++ add ( inferno - italy ) 
++ fix bugs
++ new rank system
+
 v1.3 - | 12/08/2023
 + Fixed CS2 Downloader
 + Fixed Bug
